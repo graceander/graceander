@@ -12,6 +12,8 @@
 
 <img align="right" height="150" src="https://2img.net/h/media.tumblr.com/79c18f8d50d7c63df958a929b71190c3/tumblr_inline_ml9h76biQE1qiw26m.gif"  />
 
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23FF69B4&textColor=%23FFFFFF&aColor=%23FFFFFF&borderColor=%23FF1493" alt="Jokes Card" />
+
 ### 💻 Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
