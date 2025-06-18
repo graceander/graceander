@@ -1,5 +1,6 @@
 <h2 align="center">Hey 👋! I'm Grace Anderson and I'm a Software/DevOps Engineer from WA. 
-Currently pursuing a degree in CS & Mathematics @ WSU :P</h2>
+
+  Currently pursuing a degree in CS & Mathematics @ WSU :P</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=graceander&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&include_orgs=true" height="150" alt="stats graph"  />
