@@ -6,6 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=graceander&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&include_orgs=true" height="150" alt="stats graph"  />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=graceander&style=for-the-badge&color=ff69b4" alt="Profile views" />
+</div>
+
 <img align="right" height="150" src="https://2img.net/h/media.tumblr.com/79c18f8d50d7c63df958a929b71190c3/tumblr_inline_ml9h76biQE1qiw26m.gif"  />
 
 ### 💻 Programming Languages
@@ -93,6 +97,10 @@
   </a>
   <a href="mailto:grace.anderson@lumen.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
+  </a>
+  <a href="https://github.com/graceander" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  </a>
   <a href="https://discord.com/users/glassofgrace" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
