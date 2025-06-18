@@ -1,21 +1,13 @@
 <h2 align="center">Hey 👋! I'm Grace Anderson and I'm a Software/DevOps Engineer from WA. 
-
-  Currently pursuing a degree in CS & Mathematics @ WSU :P</h2>
-
-###
+Currently pursuing a degree in CS & Mathematics @ WSU :P</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=graceander&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=graceander&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=graceander&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&include_orgs=true" height="150" alt="stats graph"  />
 </div>
-
-###
 
 <img align="right" height="150" src="https://2img.net/h/media.tumblr.com/79c18f8d50d7c63df958a929b71190c3/tumblr_inline_ml9h76biQE1qiw26m.gif"  />
 
-###
-
-### 💻 Programming Languages
+💻 Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -29,8 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
 </div>
-
-### Frontend Development
+Frontend Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -40,8 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
-
-### Backend Development
+Backend Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
@@ -51,8 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
 </div>
-
-### Mobile Development
+Mobile Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
@@ -60,8 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react native logo"  />
 </div>
-
-### DB
+Database
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
@@ -71,8 +59,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
-
-### DevOps & Cloud
+DevOps & Cloud
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo"  />
   <img width="12" />
@@ -84,8 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
-
-### Tools & Testing
+Tools & Testing
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
@@ -93,8 +79,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
 </div>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/grace-anderson-8b6489119/" target="_blank">
@@ -108,10 +92,5 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/graceander/graceander/output/snake.svg" alt="Snake animation" />
-
-###
