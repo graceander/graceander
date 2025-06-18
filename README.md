@@ -1,4 +1,4 @@
-<h2 align="center">Heyo 👋! I'm Grace Anderson and I'm a Software/DevOps Engineer from WA. 
+<h2 align="center">Hey 👋! I'm Grace Anderson and I'm a Software/DevOps Engineer from WA. 
 
   Currently pursuing a degree in CS & Mathematics @ WSU :P</h2>
 
